@@ -19,8 +19,8 @@
 # Form-CadEndereco
 
 Com base no exercício feito em sala, pegamos um código pronto do Bootstrap sobre um formulário de cadastro.
-
-![image info](img/foto.png)
+# Como está o Site
+![image info](Captura%20de%20tela%202023-10-06%20112152.png )
 ## Descrição 📝
 
  O projeto de formular cadastro é uma maneira que encontramos para manter as informações dos clientes organizadas.
@@ -38,10 +38,11 @@ Ao acessar essa ferramenta o usuário será direcionado para uma página, lá es
 - `Estado`:  E para finaliza o usuario devera colocae seu estado. Exemplo:Parana
 
 ### Tecnologia utilizada ⌨️
-* html
+* html 5
+* css 3
 * javascript
 * github
 ## Fontes consultadas 🔍
-[bootstrap] https://getbootstrap.com/
+[bootstrap 5 ] https://getbootstrap.com/
 ## Autores
-[Alexsandro] https://github.com/Alexsandro240806/Form-CadEndereco
+[Alysson] https://github.com/AlyssonTschurts
