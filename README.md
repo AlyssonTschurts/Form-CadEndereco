@@ -18,12 +18,12 @@
 
 # Form-CadEndereco
 
-Com base no exercício feito em sala, pegamos um código pronto do Bootstrap sobre um formulário de cadastro.
+Com base no exercício feito em sala, pegamos um código pronto do Bootstrap sobre um formulário de cadastro, logo após esté feito tivemos que deixar este formulario parecido com de um site de ECOMMERCE
 # Como está o Site
 ![image info](Captura%20de%20tela%202023-10-06%20112152.png )
 ## Descrição 📝
 
- O projeto de formular cadastro é uma maneira que encontramos para manter as informações dos clientes organizadas.
+ O projeto de formular cadastro é uma maneira que encontramos para manter as informações dos clientes organizadas, pesquisei em 3 sites diferentes e fui percebendo o quão são parecidos, vi na DAFITI, SHEIN e SHOPPE 
 ## Introdução❗
 
 Ferramenta que auxilia as empresas a manter as informações organizada.
@@ -44,5 +44,6 @@ Ao acessar essa ferramenta o usuário será direcionado para uma página, lá es
 * github
 ## Fontes consultadas 🔍
 [bootstrap 5 ] https://getbootstrap.com/
+CHATGPT
 ## Autores
 [Alysson] https://github.com/AlyssonTschurts

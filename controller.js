@@ -36,3 +36,6 @@ const pesquisarCep = async() => {
 }
 //adiciona evento DOM ao input do CEP para executar função pesquisarCep
 document.getElementById('cep').addEventListener('focusout', pesquisarCep);
+
+
+
